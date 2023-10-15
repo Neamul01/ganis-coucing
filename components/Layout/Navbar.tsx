@@ -104,7 +104,7 @@ function Navbar(props: any) {
             {drawer}
           </Drawer>
         </nav>
-        <Box component="main" sx={{ p: 3 }}>
+        {/* <Box component="main" sx={{ p: 3 }}>
           <Toolbar />
           <Typography>
             Quidem alias repudiandae eaque eveniet cumque nihil aliquam in
@@ -114,7 +114,7 @@ function Navbar(props: any) {
             dolorem dolores sunt inventore perferendis, aut sapiente modi
             nesciunt.
           </Typography>
-        </Box>
+        </Box> */}
       </Box>
     </div>
   );
